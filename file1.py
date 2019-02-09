@@ -1,1 +1,1 @@
-foo = 5
+foo = 50  # remote
